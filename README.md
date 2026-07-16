@@ -26,7 +26,7 @@ Large raw datasets, model checkpoints, processed JSONL files, and local SQLite d
 ## Local App Quick Start
 
 ```bash
-git clone https://github.com/kodomotachi/NER.git
+git clone https://github.com/Zolgrish/receipt-ner.git
 cd NER
 git checkout codex/receipt-ocr-ner-app
 
